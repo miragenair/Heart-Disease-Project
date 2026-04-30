@@ -1,0 +1,1 @@
+@C:/Users/mirage/DSandML/heart_disease_project/env\python.exe -m PyQt5.pyrcc_main %1 %2 %3 %4 %5 %6 %7 %8 %9
