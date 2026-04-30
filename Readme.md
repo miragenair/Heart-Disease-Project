@@ -97,44 +97,6 @@ Models were evaluated using:
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 heart-disease-classification
- ┣ 📜 end_to_end_heart_disease_classification.ipynb
- ┣ 📜 README.md
-```
-
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/heart-disease-classification.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd heart-disease-classification
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
----
-
 ## 💡 Key Learnings
 
 * Built a complete ML pipeline from scratch
@@ -150,19 +112,3 @@ jupyter notebook
 * Add a frontend interface for user interaction
 * Use advanced models like XGBoost or Neural Networks
 * Integrate real-time data input
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repository and contribute by improving the model or adding new features.
-
----
-
-## 📬 Contact
-
-If you have any questions or suggestions, feel free to reach out!
-
----
-
-⭐ If you found this project helpful, consider giving it a star!
